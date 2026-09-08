@@ -5,7 +5,7 @@ about:
   head: 8fe4a33
   archived: false
   latestVersion: "v5.68.0"
-  collectedAt: 2026-09-08T02:39:41Z
+  collectedAt: 2026-09-08T05:14:25Z
 timeline:
   created: 2017-06-06
   lastCommit: 2026-09-03
@@ -83,7 +83,7 @@ total:
   commit: 1247
 ---
 path: /home/runner/.x-repo/github.com/linode/linode-cli
-collectedAt: 2026-09-08T02:39:42Z
+collectedAt: 2026-09-08T05:14:26Z
 loc:
   Python:
     code: 24492
