@@ -4,13 +4,25 @@
 
 The official Linode command line interface.
 
-![linode-cli](https://repo.x-cmd.io/linode-cli.svg)
+![linode-cli](https://repo.x-cmd.io/linode-cli.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install linode-cli
 ```
+
+## 代码规模
+
+合计: **25,922** 行代码（覆盖前 5 种语言、共 **167** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 24,492 | 855 | 5,072 | 147 |
+| Yaml | 1,077 | 7 | 28 | 14 |
+| Json | 95 | 0 | 0 | 1 |
+| Makefile | 76 | 9 | 21 | 1 |
+| Sh | 65 | 10 | 17 | 4 |
 
 ## 源代码
 
@@ -22,7 +34,6 @@ x install linode-cli
 
 - **最新版本**: `v5.68.0` (2026-05-28)
 - **最近提交**: 2026-09-09
-- **发布时间**: 2026-05-28T19:25:33Z
 
 ## 流行度
 
@@ -37,20 +48,21 @@ x install linode-cli
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 2 | 3 | 0 | 0 | 7 |
+| last60d | 2026-07-12 | 0 | 12 | 6 | 0 | 0 | 15 |
 | 90d | 2026-06-12 | 0 | 15 | 6 | 0 | 0 | 19 |
+| last180d | 2026-03-14 | 3 | 44 | 11 | 1 | 2 | 42 |
 | 360d | 2025-09-15 | 7 | 87 | 11 | 2 | 4 | 83 |
+| last720d | 2024-09-20 | 23 | 236 | 12 | 7 | 9 | 234 |
 
-## 代码规模
+## 发行版状态
 
-合计: **25,922** 行代码（覆盖前 5 种语言、共 **167** 个文件）。
+在 [repology.org](https://repology.org/project/linode-cli) 上共有 **25** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**15** 个 ⚠️ 使用旧版本。
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 24,492 | 855 | 5,072 | 147 |
-| Yaml | 1,077 | 7 | 28 | 14 |
-| Json | 95 | 0 | 0 | 1 |
-| Makefile | 76 | 9 | 21 | 1 |
-| Sh | 65 | 10 | 17 | 4 |
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `5.68.0` | ✅ latest |
+| Nix unstable | `5.56.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `5.65.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -61,4 +73,4 @@ linode-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:34:44Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:33:37Z._
