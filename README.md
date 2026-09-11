@@ -14,12 +14,12 @@ x install linode-cli
 
 ## Code insight
 
-Total: **25,922** lines of code across **167** files in the top 5 languages.
+Total: **25,979** lines of code across **167** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 24,492 | 855 | 5,072 | 147 |
-| Yaml | 1,077 | 7 | 28 | 14 |
+| Python | 24,536 | 863 | 5,077 | 147 |
+| Yaml | 1,090 | 7 | 28 | 14 |
 | Json | 95 | 0 | 0 | 1 |
 | Makefile | 76 | 9 | 21 | 1 |
 | Sh | 65 | 10 | 17 | 4 |
@@ -33,26 +33,26 @@ Total: **25,922** lines of code across **167** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v5.68.0` (2026-05-28)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-11
 
 ## Popularity
 
-- **Stars**: 440 · **Forks**: 159 · **Open issues**: 185 · **Contributors**: 59
+- **Stars**: 441 · **Forks**: 159 · **Open issues**: 185 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 665 · **Open PRs**: 16 · **Closed issues**: 174 · **Open issues**: 11 · **Commits**: 1248
+- **Releases**: 68 · **Merged PRs**: 665 · **Open PRs**: 17 · **Closed issues**: 174 · **Open issues**: 11 · **Commits**: 1249
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 2 | 3 | 0 | 0 | 7 |
-| last60d | 2026-07-13 | 0 | 11 | 6 | 0 | 0 | 15 |
-| 90d | 2026-06-13 | 0 | 15 | 6 | 0 | 0 | 19 |
-| last180d | 2026-03-15 | 3 | 44 | 11 | 1 | 2 | 42 |
-| 360d | 2025-09-16 | 7 | 87 | 11 | 2 | 4 | 83 |
-| last720d | 2024-09-21 | 23 | 236 | 12 | 7 | 9 | 233 |
+| 30d | 2026-08-12 | 0 | 2 | 4 | 0 | 0 | 8 |
+| last60d | 2026-07-13 | 0 | 11 | 7 | 0 | 0 | 16 |
+| 90d | 2026-06-13 | 0 | 15 | 7 | 0 | 0 | 20 |
+| last180d | 2026-03-15 | 3 | 44 | 12 | 1 | 2 | 43 |
+| 360d | 2025-09-16 | 7 | 87 | 12 | 2 | 4 | 84 |
+| last720d | 2024-09-21 | 23 | 236 | 13 | 7 | 9 | 234 |
 
 ## Distribution status
 
@@ -73,4 +73,4 @@ Install metadata for linode-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:23:17Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:33:39Z._
