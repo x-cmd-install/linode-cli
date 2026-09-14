@@ -47,22 +47,12 @@ Total: **25,979** lines of code across **167** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 2 | 4 | 0 | 0 | 4 |
-| last60d | 2026-07-15 | 0 | 9 | 7 | 0 | 0 | 15 |
-| 90d | 2026-06-15 | 0 | 15 | 7 | 0 | 0 | 20 |
-| last180d | 2026-03-17 | 3 | 41 | 12 | 1 | 2 | 40 |
-| 360d | 2025-09-18 | 7 | 87 | 12 | 2 | 4 | 82 |
-| last720d | 2024-09-23 | 23 | 236 | 13 | 7 | 9 | 234 |
-
-## Distribution status
-
-Reported by **25** distros on [repology.org](https://repology.org/project/linode-cli). **4** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `5.68.0` | ✅ latest |
-| Nix unstable | `5.56.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `5.65.0` | ⚠️ outdated |
+| 30d | 2026-08-15 | 0 | 2 | 4 | 0 | 0 | 4 |
+| last60d | 2026-07-16 | 0 | 9 | 6 | 0 | 0 | 15 |
+| 90d | 2026-06-16 | 0 | 15 | 7 | 0 | 0 | 20 |
+| last180d | 2026-03-18 | 3 | 40 | 12 | 1 | 2 | 40 |
+| 360d | 2025-09-19 | 7 | 87 | 12 | 2 | 4 | 82 |
+| last720d | 2024-09-24 | 23 | 236 | 13 | 7 | 9 | 234 |
 
 ## Improve this data
 
@@ -73,4 +63,4 @@ Install metadata for linode-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:28:16Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:42:45Z._
