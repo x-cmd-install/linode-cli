@@ -4,7 +4,7 @@
 
 The official Linode command line interface.
 
-![linode-cli](https://repo.x-cmd.io/linode-cli.svg)
+[![x-cmd/install — linode-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/linode-cli.svg)](https://x-cmd.com/install/linode-cli)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install linode-cli
 
 ## Code insight
 
-Total: **26,411** lines of code across **168** files in the top 5 languages.
+Total: **26,607** lines of code across **168** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 24,884 | 890 | 5,143 | 147 |
+| Python | 25,080 | 885 | 5,198 | 147 |
 | Yaml | 1,174 | 17 | 31 | 15 |
 | Json | 95 | 0 | 0 | 1 |
 | Makefile | 76 | 9 | 21 | 1 |
@@ -32,27 +32,27 @@ Total: **26,411** lines of code across **168** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v5.68.0` (2026-05-28)
-- **Last commit**: 2026-09-17
+- **Latest**: `v5.69.0` (2026-09-18)
+- **Last commit**: 2026-09-18
 
 ## Popularity
 
-- **Stars**: 441 · **Forks**: 159 · **Open issues**: 185 · **Contributors**: 59
+- **Stars**: 442 · **Forks**: 159 · **Open issues**: 185 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 672 · **Open PRs**: 11 · **Closed issues**: 174 · **Open issues**: 11 · **Commits**: 1256
+- **Releases**: 69 · **Merged PRs**: 675 · **Open PRs**: 9 · **Closed issues**: 174 · **Open issues**: 11 · **Commits**: 1258
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 7 | 0 | 0 | 0 | 11 |
-| last60d | 2026-07-20 | 0 | 15 | 1 | 0 | 0 | 22 |
-| 90d | 2026-06-20 | 0 | 22 | 1 | 0 | 0 | 27 |
-| last180d | 2026-03-22 | 2 | 47 | 6 | 1 | 1 | 47 |
-| 360d | 2025-09-23 | 7 | 94 | 6 | 2 | 4 | 89 |
-| last720d | 2024-09-28 | 23 | 241 | 7 | 7 | 8 | 238 |
+| 30d | 2026-08-21 | 1 | 8 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 1 | 17 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 1 | 24 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 3 | 49 | 4 | 1 | 1 | 0 |
+| 360d | 2025-09-25 | 8 | 97 | 4 | 2 | 4 | 0 |
+| last720d | 2024-09-30 | 24 | 244 | 5 | 7 | 8 | 240 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for linode-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:29:52Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:37:09Z._
