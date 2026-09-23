@@ -4,7 +4,7 @@
 
 The official Linode command line interface.
 
-[![x-cmd/install — linode-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/linode-cli.svg)](https://x-cmd.com/install/linode-cli)
+[![x-cmd/install — linode-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/linode-cli.svg)](https://x-cmd.com/install/linode-cli)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **26,607** lines of code across **168** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 8 | 0 | 0 | 0 | 12 |
-| last60d | 2026-07-24 | 1 | 17 | 0 | 0 | 0 | 23 |
-| 90d | 2026-06-24 | 1 | 24 | 0 | 0 | 0 | 29 |
-| last180d | 2026-03-26 | 3 | 49 | 4 | 1 | 1 | 48 |
-| 360d | 2025-09-27 | 8 | 97 | 4 | 2 | 4 | 86 |
-| last720d | 2024-10-02 | 23 | 242 | 5 | 7 | 8 | 238 |
+| 30d | 2026-08-24 | 1 | 8 | 0 | 0 | 0 | 12 |
+| last60d | 2026-07-25 | 1 | 17 | 0 | 0 | 0 | 23 |
+| 90d | 2026-06-25 | 1 | 24 | 0 | 0 | 0 | 29 |
+| last180d | 2026-03-27 | 3 | 49 | 4 | 1 | 1 | 48 |
+| 360d | 2025-09-28 | 8 | 97 | 4 | 2 | 4 | 86 |
+| last720d | 2024-10-03 | 23 | 242 | 5 | 7 | 8 | 238 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for linode-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:37:13Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:36:29Z._
