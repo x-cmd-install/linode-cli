@@ -14,12 +14,12 @@ x install linode-cli
 
 ## Code insight
 
-Total: **26,621** lines of code across **168** files in the top 5 languages.
+Total: **26,665** lines of code across **168** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 25,094 | 885 | 5,198 | 147 |
-| Yaml | 1,174 | 17 | 31 | 15 |
+| Python | 25,139 | 886 | 5,212 | 147 |
+| Yaml | 1,173 | 17 | 31 | 15 |
 | Json | 95 | 0 | 0 | 1 |
 | Makefile | 76 | 9 | 21 | 1 |
 | Sh | 65 | 10 | 17 | 4 |
@@ -33,7 +33,7 @@ Total: **26,621** lines of code across **168** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v5.69.0` (2026-09-18)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **26,621** lines of code across **168** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 69 · **Merged PRs**: 678 · **Open PRs**: 11 · **Closed issues**: 174 · **Open issues**: 11 · **Commits**: 1261
+- **Releases**: 69 · **Merged PRs**: 679 · **Open PRs**: 10 · **Closed issues**: 174 · **Open issues**: 11 · **Commits**: 1262
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 3 | 3 | 0 | 0 | 3 |
-| last60d | 2026-08-22 | 1 | 11 | 3 | 0 | 0 | 15 |
-| 90d | 2026-07-23 | 1 | 20 | 3 | 0 | 0 | 26 |
-| last180d | 2026-04-24 | 2 | 44 | 5 | 1 | 1 | 45 |
-| 360d | 2025-10-26 | 7 | 93 | 6 | 2 | 4 | 88 |
-| last720d | 2024-10-31 | 20 | 227 | 6 | 6 | 8 | 226 |
+| 30d | 2026-09-22 | 0 | 4 | 2 | 0 | 0 | 4 |
+| last60d | 2026-08-23 | 1 | 12 | 2 | 0 | 0 | 16 |
+| 90d | 2026-07-24 | 1 | 21 | 2 | 0 | 0 | 27 |
+| last180d | 2026-04-25 | 2 | 45 | 4 | 1 | 1 | 46 |
+| 360d | 2025-10-27 | 7 | 94 | 5 | 2 | 4 | 89 |
+| last720d | 2024-11-01 | 20 | 228 | 5 | 6 | 8 | 225 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for linode-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:15:02Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:13:21Z._
