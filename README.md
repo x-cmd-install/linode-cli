@@ -37,7 +37,7 @@ Total: **26,665** lines of code across **168** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 442 · **Forks**: 160 · **Open issues**: 185 · **Contributors**: 61
+- **Stars**: 442 · **Forks**: 161 · **Open issues**: 185 · **Contributors**: 61
 
 ## Totals (cumulative)
 
@@ -47,12 +47,22 @@ Total: **26,665** lines of code across **168** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 4 | 2 | 0 | 0 | 4 |
-| last60d | 2026-08-23 | 1 | 12 | 2 | 0 | 0 | 16 |
-| 90d | 2026-07-24 | 1 | 21 | 2 | 0 | 0 | 27 |
-| last180d | 2026-04-25 | 2 | 45 | 4 | 1 | 1 | 46 |
-| 360d | 2025-10-27 | 7 | 94 | 5 | 2 | 4 | 89 |
-| last720d | 2024-11-01 | 20 | 228 | 5 | 6 | 8 | 225 |
+| 30d | 2026-09-23 | 0 | 4 | 2 | 0 | 0 | 4 |
+| last60d | 2026-08-24 | 1 | 12 | 2 | 0 | 0 | 16 |
+| 90d | 2026-07-25 | 1 | 21 | 2 | 0 | 0 | 27 |
+| last180d | 2026-04-26 | 2 | 45 | 4 | 1 | 1 | 46 |
+| 360d | 2025-10-28 | 7 | 93 | 5 | 2 | 4 | 89 |
+| last720d | 2024-11-02 | 20 | 228 | 5 | 6 | 8 | 220 |
+
+## Distribution status
+
+Reported by **25** distros on [repology.org](https://repology.org/project/linode-cli). **4** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `5.56.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `5.65.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -63,4 +73,4 @@ Install metadata for linode-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:13:21Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:20:36Z._
