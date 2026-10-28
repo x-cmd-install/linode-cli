@@ -14,11 +14,11 @@ x install linode-cli
 
 ## Code insight
 
-Total: **26,665** lines of code across **168** files in the top 5 languages.
+Total: **26,826** lines of code across **168** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 25,139 | 886 | 5,212 | 147 |
+| Python | 25,300 | 886 | 5,230 | 147 |
 | Yaml | 1,173 | 17 | 31 | 15 |
 | Json | 95 | 0 | 0 | 1 |
 | Makefile | 76 | 9 | 21 | 1 |
@@ -33,7 +33,7 @@ Total: **26,665** lines of code across **168** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v5.69.0` (2026-09-18)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-27
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **26,665** lines of code across **168** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 69 · **Merged PRs**: 679 · **Open PRs**: 10 · **Closed issues**: 174 · **Open issues**: 11 · **Commits**: 1262
+- **Releases**: 69 · **Merged PRs**: 680 · **Open PRs**: 10 · **Closed issues**: 174 · **Open issues**: 11 · **Commits**: 1263
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 4 | 2 | 0 | 0 | 4 |
-| last60d | 2026-08-28 | 1 | 10 | 2 | 0 | 0 | 16 |
-| 90d | 2026-07-29 | 1 | 18 | 2 | 0 | 0 | 27 |
-| last180d | 2026-04-30 | 2 | 44 | 4 | 1 | 1 | 45 |
-| 360d | 2025-11-01 | 7 | 88 | 5 | 2 | 3 | 89 |
-| last720d | 2024-11-06 | 20 | 225 | 5 | 6 | 8 | 220 |
+| 30d | 2026-09-28 | 0 | 5 | 2 | 0 | 0 | 5 |
+| last60d | 2026-08-29 | 1 | 11 | 2 | 0 | 0 | 17 |
+| 90d | 2026-07-30 | 1 | 19 | 2 | 0 | 0 | 28 |
+| last180d | 2026-05-01 | 2 | 41 | 4 | 1 | 1 | 46 |
+| 360d | 2025-11-02 | 7 | 89 | 5 | 2 | 3 | 90 |
+| last720d | 2024-11-07 | 20 | 225 | 5 | 6 | 8 | 220 |
 
 ## Distribution status
 
@@ -73,4 +73,4 @@ Install metadata for linode-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:39:38Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:12:38Z._
