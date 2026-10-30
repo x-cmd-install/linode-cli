@@ -1,16 +1,9 @@
-- repo: homebrew
-  srcname: linode-cli
-  visiblename: linode-cli
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: CLI for the Linode API
 - repo: aur
   srcname: linode-cli
   binname: linode-cli
   visiblename: linode-cli
-  version: 5.69.0
-  origversion: 5.69.0-1
+  version: 5.70.0
+  origversion: 5.70.0-1
   status: newest
   summary: Linode API wrapper
   maintainers:
@@ -116,7 +109,7 @@
   visiblename: app-admin/linode-cli
   version: 5.69.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Official command-line interface for interacting with the Linode API
   maintainers:
     - ceamac@gentoo.org
@@ -128,9 +121,16 @@
 - repo: homebrew
   srcname: linode-cli
   visiblename: linode-cli
-  version: 5.69.0
+  version: 5.70.0
   origversion: null
   status: newest
+  summary: CLI for the Linode API
+- repo: homebrew
+  srcname: linode-cli
+  visiblename: linode-cli
+  version: HEAD
+  origversion: null
+  status: rolling
   summary: CLI for the Linode API
 - repo: opensuse_leap_15_5
   subrepo: main/oss
@@ -191,7 +191,7 @@
   visiblename: app-admin/linode-cli
   version: 5.69.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Official command-line interface for interacting with the Linode API
   maintainers:
     - ceamac@gentoo.org
