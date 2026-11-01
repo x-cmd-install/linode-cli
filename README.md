@@ -41,22 +41,22 @@ Total: **26,828** lines of code across **168** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 683 · **Open PRs**: 9 · **Closed issues**: 174 · **Open issues**: 11 · **Commits**: 1264
+- **Releases**: 70 · **Merged PRs**: 683 · **Open PRs**: 10 · **Closed issues**: 174 · **Open issues**: 11 · **Commits**: 1264
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 1 | 7 | 1 | 0 | 0 | 6 |
-| last60d | 2026-09-01 | 2 | 12 | 1 | 0 | 0 | 18 |
-| 90d | 2026-08-02 | 2 | 19 | 1 | 0 | 0 | 29 |
-| last180d | 2026-05-04 | 3 | 44 | 3 | 1 | 1 | 47 |
-| 360d | 2025-11-05 | 8 | 90 | 4 | 2 | 3 | 91 |
-| last720d | 2024-11-10 | 21 | 227 | 4 | 6 | 8 | 221 |
+| 30d | 2026-10-02 | 1 | 6 | 2 | 0 | 0 | 6 |
+| last60d | 2026-09-02 | 2 | 12 | 2 | 0 | 0 | 17 |
+| 90d | 2026-08-03 | 2 | 18 | 2 | 0 | 0 | 24 |
+| last180d | 2026-05-05 | 3 | 44 | 4 | 1 | 1 | 46 |
+| 360d | 2025-11-06 | 8 | 90 | 5 | 2 | 3 | 85 |
+| last720d | 2024-11-11 | 21 | 227 | 5 | 6 | 8 | 221 |
 
 ## Distribution status
 
-Reported by **25** distros on [repology.org](https://repology.org/project/linode-cli). **2** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **27** distros on [repology.org](https://repology.org/project/linode-cli). **4** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -73,4 +73,4 @@ Install metadata for linode-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:14:06Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:40:15Z._
