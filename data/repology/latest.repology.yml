@@ -1,3 +1,17 @@
+- repo: homebrew
+  srcname: linode-cli
+  visiblename: linode-cli
+  version: 5.70.0
+  origversion: null
+  status: newest
+  summary: CLI for the Linode API
+- repo: homebrew
+  srcname: linode-cli
+  visiblename: linode-cli
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CLI for the Linode API
 - repo: aur
   srcname: linode-cli
   binname: linode-cli
@@ -107,9 +121,9 @@
 - repo: gentoo
   srcname: app-admin/linode-cli
   visiblename: app-admin/linode-cli
-  version: 5.69.0
+  version: 5.70.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Official command-line interface for interacting with the Linode API
   maintainers:
     - ceamac@gentoo.org
@@ -118,32 +132,20 @@
     - BSD
   categories:
     - app-admin
-- repo: homebrew
-  srcname: linode-cli
-  visiblename: linode-cli
-  version: 5.70.0
+- repo: gentoo
+  srcname: app-admin/linode-cli
+  visiblename: app-admin/linode-cli
+  version: 5.69.0
   origversion: null
-  status: newest
-  summary: CLI for the Linode API
-- repo: homebrew
-  srcname: linode-cli
-  visiblename: linode-cli
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: CLI for the Linode API
-- repo: opensuse_leap_15_5
-  subrepo: main/oss
-  srcname: linode-cli
-  visiblename: linode-cli
-  version: 5.25.0
-  origversion: 5.25.0-bp155.1.5
-  status: outdated
-  summary: The Linode command-line interface
+  status: legacy
+  summary: Official command-line interface for interacting with the Linode API
+  maintainers:
+    - ceamac@gentoo.org
+    - xgqt@gentoo.org
   licenses:
-    - BSD-3-Clause
+    - BSD
   categories:
-    - Unspecified
+    - app-admin
 - repo: liguros_stable
   srcname: app-admin/linode-cli
   visiblename: app-admin/linode-cli
@@ -191,7 +193,21 @@
   visiblename: app-admin/linode-cli
   version: 5.69.0
   origversion: null
-  status: outdated
+  status: legacy
+  summary: Official command-line interface for interacting with the Linode API
+  maintainers:
+    - ceamac@gentoo.org
+    - xgqt@gentoo.org
+  licenses:
+    - BSD
+  categories:
+    - app-admin
+- repo: liguros_develop
+  srcname: app-admin/linode-cli
+  visiblename: app-admin/linode-cli
+  version: 5.70.0
+  origversion: null
+  status: newest
   summary: Official command-line interface for interacting with the Linode API
   maintainers:
     - ceamac@gentoo.org
@@ -286,6 +302,18 @@
     - techknowlogick@gitea.com
   licenses:
     - BSD-3-Clause
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: linode-cli
+  visiblename: linode-cli
+  version: 5.25.0
+  origversion: 5.25.0-bp155.1.5
+  status: outdated
+  summary: The Linode command-line interface
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - Unspecified
 - repo: opensuse_leap_15_6
   subrepo: main/oss
   srcname: linode-cli
