@@ -37,22 +37,22 @@ Total: **26,828** lines of code across **168** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 442 · **Forks**: 162 · **Open issues**: 185 · **Contributors**: 61
+- **Stars**: 442 · **Forks**: 163 · **Open issues**: 185 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 683 · **Open PRs**: 15 · **Closed issues**: 174 · **Open issues**: 11 · **Commits**: 1264
+- **Releases**: 70 · **Merged PRs**: 683 · **Open PRs**: 16 · **Closed issues**: 174 · **Open issues**: 11 · **Commits**: 1264
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 6 | 7 | 0 | 0 | 4 |
-| last60d | 2026-09-09 | 2 | 11 | 7 | 0 | 0 | 14 |
-| 90d | 2026-08-10 | 2 | 16 | 7 | 0 | 0 | 20 |
-| last180d | 2026-05-12 | 3 | 41 | 9 | 1 | 1 | 40 |
-| 360d | 2025-11-13 | 8 | 90 | 10 | 2 | 3 | 80 |
-| last720d | 2024-11-18 | 21 | 224 | 10 | 6 | 8 | 217 |
+| 30d | 2026-10-10 | 1 | 6 | 8 | 0 | 0 | 4 |
+| last60d | 2026-09-10 | 2 | 11 | 8 | 0 | 0 | 14 |
+| 90d | 2026-08-11 | 2 | 16 | 8 | 0 | 0 | 20 |
+| last180d | 2026-05-13 | 3 | 40 | 10 | 1 | 1 | 40 |
+| 360d | 2025-11-14 | 8 | 90 | 11 | 2 | 3 | 80 |
+| last720d | 2024-11-19 | 21 | 223 | 11 | 6 | 8 | 217 |
 
 ## Distribution status
 
@@ -73,4 +73,4 @@ Install metadata for linode-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:49:33Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:13:24Z._
