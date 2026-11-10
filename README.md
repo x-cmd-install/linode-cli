@@ -47,12 +47,12 @@ Total: **26,828** lines of code across **168** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 6 | 8 | 0 | 0 | 4 |
-| last60d | 2026-09-10 | 2 | 11 | 8 | 0 | 0 | 14 |
-| 90d | 2026-08-11 | 2 | 16 | 8 | 0 | 0 | 20 |
-| last180d | 2026-05-13 | 3 | 40 | 10 | 1 | 1 | 40 |
-| 360d | 2025-11-14 | 8 | 90 | 11 | 2 | 3 | 80 |
-| last720d | 2024-11-19 | 21 | 223 | 11 | 6 | 8 | 217 |
+| 30d | 2026-10-11 | 1 | 6 | 8 | 0 | 0 | 4 |
+| last60d | 2026-09-11 | 2 | 10 | 8 | 0 | 0 | 14 |
+| 90d | 2026-08-12 | 2 | 16 | 8 | 0 | 0 | 20 |
+| last180d | 2026-05-14 | 3 | 40 | 10 | 1 | 1 | 40 |
+| 360d | 2025-11-15 | 8 | 90 | 11 | 2 | 3 | 80 |
+| last720d | 2024-11-20 | 21 | 223 | 11 | 6 | 8 | 214 |
 
 ## Distribution status
 
@@ -73,4 +73,4 @@ Install metadata for linode-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:13:24Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:55:51Z._
