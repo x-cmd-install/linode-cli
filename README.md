@@ -14,11 +14,11 @@ x install linode-cli
 
 ## Code insight
 
-Total: **26,828** lines of code across **168** files in the top 5 languages.
+Total: **26,961** lines of code across **168** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 25,302 | 886 | 5,230 | 147 |
+| Python | 25,435 | 888 | 5,237 | 147 |
 | Yaml | 1,173 | 17 | 31 | 15 |
 | Json | 95 | 0 | 0 | 1 |
 | Makefile | 76 | 9 | 21 | 1 |
@@ -33,7 +33,7 @@ Total: **26,828** lines of code across **168** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v5.70.0` (2026-10-28)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-24
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **26,828** lines of code across **168** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 684 · **Open PRs**: 16 · **Closed issues**: 174 · **Open issues**: 11 · **Commits**: 1265
+- **Releases**: 70 · **Merged PRs**: 686 · **Open PRs**: 14 · **Closed issues**: 174 · **Open issues**: 11 · **Commits**: 1267
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 4 | 7 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 1 | 9 | 8 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 2 | 17 | 8 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 3 | 38 | 9 | 0 | 0 | 0 |
-| 360d | 2025-11-28 | 7 | 87 | 11 | 2 | 3 | 0 |
-| last720d | 2024-12-03 | 20 | 213 | 11 | 5 | 8 | 208 |
+| 30d | 2026-10-25 | 1 | 6 | 5 | 0 | 0 | 3 |
+| last60d | 2026-09-25 | 1 | 11 | 6 | 0 | 0 | 9 |
+| 90d | 2026-08-26 | 2 | 19 | 6 | 0 | 0 | 21 |
+| last180d | 2026-05-28 | 3 | 39 | 7 | 0 | 0 | 41 |
+| 360d | 2025-11-29 | 7 | 89 | 9 | 2 | 3 | 83 |
+| last720d | 2024-12-04 | 20 | 215 | 9 | 5 | 8 | 210 |
 
 ## Distribution status
 
@@ -73,4 +73,4 @@ Install metadata for linode-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:13:53Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:35:43Z._
